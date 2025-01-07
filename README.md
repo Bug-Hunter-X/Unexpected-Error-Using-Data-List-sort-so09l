@@ -1,0 +1,1 @@
+This repository contains a simple Haskell program demonstrating an unexpected behavior when using the `sort` function from `Data.List`. The `bug.hs` file showcases the incorrect usage, while `bugSolution.hs` provides a corrected version.
